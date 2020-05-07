@@ -19,7 +19,7 @@ Greenlight is also completely configurable. This means you can turn on/off featu
 
 For a overview of how Greenlight works, checkout our Introduction to Greenlight Video:
 
-[![GreenLight Overview](https://img.youtube.com/vi/Hso8yLzkqj8/0.jpg)](https://youtu.be/Hso8yLzkqj8)
+[![GreenLight Overview](https://img.youtube.com/vi/Hso8yLzkqj8/0.jpg)](https://youtu.be/DmjBAejdkj8)
 
 ## Installation on a BigBlueButton Server
 
